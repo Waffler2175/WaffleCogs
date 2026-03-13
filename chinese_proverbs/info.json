@@ -1,10 +1,8 @@
 {
-  "AUTHOR": ["Waffle2175"],
-  "INSTALL_MSG": "Im feeling quite chinese today, aren't you?",
-  "NAME": "ProverbsCog",
-  "SHORT": "Chinese Proverbs, thats all.",
-  "DESCRIPTION": "You can list out chinese proverbs, check the help command if more info is needed.",
-  "requirements": ["pip", "Red-DiscordBot"],
-  "tags": ["chinese", "proverbs"]
+  "AUTHOR": "Waffle2175",
+  "INSTALL_MSG": "Thanks for installing!",
+  "NAME": "chinese_proverbs",
+  "SHORT": "Get a random Chinese proverb.",
+  "DESCRIPTION": "Returns a random Chinese chengyu with pinyin and English translations.",
+  "END_USER_DATA_STATEMENT": "This cog does not store any user data."
 }
-
