@@ -1,7 +1,7 @@
 from redbot.core import commands, app_commands
 import discord
 from .proverbs import run 
-class MyCog(commands.Cog):
+class ProverbsCog(commands.Cog):
     """Chinese-Proverbs"""
 
     def __init__(self, bot):

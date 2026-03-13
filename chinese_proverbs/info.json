@@ -1,0 +1,10 @@
+{
+  "AUTHOR": ["Waffle2175"],
+  "INSTALL_MSG": "Im feeling quite chinese today, aren't you?",
+  "NAME": "ProverbsCog",
+  "SHORT": "Chinese Proverbs, thats all.",
+  "DESCRIPTION": "You can list out chinese proverbs, check the help command if more info is needed.",
+  "requirements": ["pip"],
+  "tags": ["chinese", "proverbs"]
+}
+
